@@ -1,6 +1,6 @@
 ## Welcome to ITA-VI
 
-### Abstract
+### Summary
 
 The visually impaired have little or no effective visual sensory input and have to rely on external assistance for navigation. Several electronic travel aids were developed to aid independent navigation of the visually impaired though these travel aids either offered some level of obstacle recognition or terrain analysis but not both. However, dangerous terrain features pose serious risks of hazard.
 
