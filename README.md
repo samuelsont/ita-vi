@@ -1,4 +1,4 @@
-## Design and Implementation of an Intelligent Travel Aid for The Visually Impaired (ITA-VI)
+### Design and Implementation of an Intelligent Travel Aid for The Visually Impaired (ITA-VI)
 #### *Proposal by: S. T. Atiba [1], [2] and S. F. Moses*
 [1]: mailto://statiba@student.lautech.edu.ng
 [2]: mailto://samuelsontijesunimi@gmail.com
