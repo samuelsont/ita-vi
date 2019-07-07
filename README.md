@@ -1,7 +1,12 @@
 ### Design and Implementation of an Intelligent Travel Aid for The Visually Impaired (ITA-VI)
-#### *Proposal by: S. T. Atiba [1], [2] and S. F. Moses*
+*Proposal by: Samuelson T. Atiba and Sarah F. Moses*
+
+#### Get in Touch
+[Work Email][1], [Home Email][2]
+
 [1]: mailto://statiba@student.lautech.edu.ng
 [2]: mailto://samuelsontijesunimi@gmail.com
+
 
 #### Summary
 The visually impaired have little or no effective visual sensory input and have to rely on external assistance for navigation. Several electronic travel aids were developed to aid independent navigation of the visually impaired though these travel aids either offered some level of obstacle recognition or terrain analysis but not both. However, dangerous terrain features pose serious risks of hazard.
@@ -99,12 +104,12 @@ The execution of this research work will lead to the creation of an open reposit
 #### Budget
 An estimate of some of the required resources for the research work is outlined below:
 
-*Table 2.1 Estimate of Required Resources for the Research Work
+*Table 2.1 Estimate of Required Resources for the Research Work*
 
 | Item | Unit Cost | Quantity	| Total - ₦360 ($1) |
-| --- | --- | --- | --- |
+| :--- | ---: | ---: | ---: |
 | Raspberry Pi 3 B+ Board |	₦28,796.4 ($79.99) |	2 pcs |	₦57,592.8 ($159.98) |
-| Raspberry Pi Camera Module	| ₦10,389.6 ($28.86) |	2 pcs	₦20,779.2 ($57.72) |
+| Raspberry Pi Camera Module	| ₦10,389.6 ($28.86) |	2 pcs |	₦20,779.2 ($57.72) |
 | Coral USB Accelerator | ₦44,982.0 ($124.95) | 1 stick | ₦44,982.0 ($124.95) |
 | Movidius Neural Compute Stick | ₦27,705.6  ($76.96)	| 2 sticks | ₦55,411.2 ($153.92) |
 | **Spec. Subtotal** |  |  |	**₦178,765.2 ($496.57)** |
