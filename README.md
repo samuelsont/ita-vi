@@ -1,12 +1,6 @@
 ### Design and Implementation of an Intelligent Travel Aid for The Visually Impaired (ITA-VI)
 *Proposal by: Samuelson T. Atiba and Sarah F. Moses*
 
-#### Get in Touch
-[Work Email][1], [Home Email][2]
-
-[1]: mailto://statiba@student.lautech.edu.ng
-[2]: mailto://samuelsontijesunimi@gmail.com
-
 
 #### Summary
 The visually impaired have little or no effective visual sensory input and have to rely on external assistance for navigation. Several electronic travel aids were developed to aid independent navigation of the visually impaired though these travel aids either offered some level of obstacle recognition or terrain analysis but not both. However, dangerous terrain features pose serious risks of hazard.
@@ -151,6 +145,14 @@ The predetermined Objects set comprised of obstacles, accessibility aids and pla
     -	Open Gutters
     -	Gutter Gratings
     -	Drop Offs
+    
+#### Get in Touch
+Send us an email [here][1] or [here][2].
+
+We'll make sure to get back in touch.
+
+[1]: mailto://statiba@student.lautech.edu.ng
+[2]: mailto://samuelsontijesunimi@gmail.com
 
 #### References
 Gale, T. (2006). Visual Impairment. In Gale Encyclopedia of Medicine, (3rd ed.). Retrieved May 14, 2019 from Encyclopedia.com:https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/visual-impairment
