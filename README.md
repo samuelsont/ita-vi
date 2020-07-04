@@ -5,7 +5,7 @@
 #### Summary
 The visually impaired have little or no effective visual sensory input and have to rely on external assistance for navigation. Several electronic travel aids were developed to aid independent navigation of the visually impaired though these travel aids either offered some level of obstacle recognition or terrain analysis but not both. However, dangerous terrain features pose serious risks of hazard.
 
- This paper proposes the design and implementation of an Intelligent Travel Aid that combines the detection and recognition of objects with the analysis of terrain features for real-time identification of features that may pose a risk of hazard to visually impaired users.
+This paper proposes the design and implementation of an Intelligent Travel Aid that combines the detection and recognition of objects with the analysis of terrain features for real-time identification of features that may pose a risk of hazard to visually impaired users.
  
 This system will leverage artificial intelligence technologies. Machine vision will be used for object recognition and terrain feature detection. Two cameras for capturing object and terrain images respectively, a haptic device and a speaker connected to a Raspberry Pi development board form the core of the system. The system will notify users of obstacles and terrain features via haptic feedback and synthesized speech.
 
@@ -14,11 +14,7 @@ To visualize the terrain data and obstacle position in space during initial anal
 The completion of this research work will help shape the future of assistive technologies to facilitate the independent navigation of visually impaired individuals. Further, the completed research work will result in the creation of an open image dataset relevant to the African context and so further inclusion in the development of artificial intelligence.
 
 #### Introduction
-According to the World Health Organization (2018), an estimated 1.3 billion people live with some form of distance or near visual impairment, 36 million of whom are blind. For these people, seemingly simple tasks like driving, walking, reading and interacting with others could be extremely difficult. Navigation is especially tedious because it requires the ability to perceive distance, terrain and obstacles. It also requires the individual to analyze these to deduce necessary reactions and carry them out. 
-
-Visual impairment or low vision is a severe reduction in vision that cannot be corrected with standard glasses or contact lenses. It reduces a person's ability to function at certain or all tasks. Legal blindness, a severe visual impairment, refers to a best-corrected central vision of 20/200 or worse in the better eye or a visual acuity of better than 20/200 but with a visual field no greater than 20° (i.e., side vision that is so reduced that it appears as if the person is looking through a tunnel). People classified as living with visual impairment typically have less than 20/100 vision i.e., the inability to see clearly from a distance of 20 feet what the normal eye can see clearly from 100 feet – at the best, they are unable to distinctly see far-off objects while retaining some visual perception of light and objects that are very close by and at the worst, they have no perception of light. (Gale Encyclopaedia of Medicine, 2008).
-
-The visually impaired are unable to detect objects which may constitute obstacles from a distance because of their limited visual abilities. Since the visually impaired are unable to detect these objects, it is impossible for them to recognize such as may pose risks of hazard.
+According to the World Health Organization (2019), an estimated 2.2 billion people live with some form of distance or near visual impairment with up to 1 billion people moderately impaired, severely impaired or totally blind. Visual impairment is a severe reduction in vision that cannot be corrected with standard glasses or contact lenses. Its severe forms spans legal blindness, a severe visual impairment which refers to a best-corrected central vision of 20/200 or worse in the better eye or a visual acuity of better than 20/200 but with a visual field no greater than 20°, to total blindness, a severe visual impairment which refers to a total loss of vision and a complete inability to perceive light. (Gale Encyclopaedia of Medicine, 2008). It is generally known that tasks such as driving, walking, reading and interacting with others which sighted people take for granted could be extremely difficult for the visually impaired. This is because navigation requires the ability to perceive certain types of information such as the presence, location and nature of obstacles; texture, slope and boundary of the path or travel surface; and the spatial orientation. (National Research Council, 1986). It also requires the individual to analyze these to deduce necessary reactions and carry them out. However, due to the limited visual abilities of the visually impaired, they are unable to assimiliate the necessary visual information and are thus unable to avoid environmental features such as may pose risks of hazard during unaided navigation.
 
 ##### Problem Statement
 In humans, vision is essential and always actively engaged during the navigation of the environment. The ability to gather and process visual input plays a core role in the human ability to get from one location to another successfully and efficiently. Successful navigation is being able to get from one location to a proposed location while efficiency ensures this is done in an optimum period of time and with no more energy than should normally be required. However, the visually impaired do not possess the ability to gather adequate and accurate visual information. Hence, successful and efficient navigation is not possible for the unaided visually impaired individual.
@@ -155,9 +151,11 @@ We'll make sure to get back in touch.
 [2]: mailto://samuelsontijesunimi@gmail.com
 
 #### References
-Gale, T. (2006). Visual Impairment. In Gale Encyclopedia of Medicine, (3rd ed.). Retrieved May 14, 2019 from Encyclopedia.com:https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/visual-impairment
-
 Bourbakis, N., Keefer, R., Dakopoulos, D. and Esposito, A. (2008). A Multimodal Interaction Scheme between a Blind User and the Tyflos Assistive Prototype. 20th IEEE International Conference on Tools with Artificial Intelligence, 487-494.
+
+Committee on Vision Working Group on Mobility Aids for the Visually Impaired and Blind Committee on Vision, National Research Council. (1986). Electronic Travel Aids: New Directions for Research. National Academy Press, Washington D.C..
+
+Gale, T. (2006). Visual Impairment. In Gale Encyclopedia of Medicine, (3rd ed.). Retrieved May 14, 2019 from Encyclopedia.com:https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/visual-impairment
 
 Gianani, S., Mehta, A., Motwani, T., and Shende, R. (2018). JUVO - An Aid for the Visually Impaired. International Conference on Smart City and Emerging Technology, 1-4.
 
@@ -167,4 +165,4 @@ Pressey, N. (1977). Mowat Sensor. Focus, 11(3), 35-39.
 
 Russell, L. (1966). Travel Pathsounder and evaluation, In R. Dutton (Ed.), Procs. Conference on the Evaluation of Sensory Devices for the Blind, 293-297. St. Dunstan’s, London.
 
-World Health Organization (2018). Blindness and Visual Impairment Retrieved 05-14-2019 from http://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment
+World Health Organization (2019). Blindness and Visual Impairment Retrieved 06-14-2020 from https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment
